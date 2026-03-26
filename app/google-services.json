@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840995948028",
+    "project_id": "bibliotecaap-e1d41",
+    "storage_bucket": "bibliotecaap-e1d41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840995948028:android:a3d456e50f4db187809e79",
+        "android_client_info": {
+          "package_name": "com.example.bibliotecaap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Dy_1lqyJXaAe7M7JvIHQkfoUegrxUk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
